@@ -9,5 +9,6 @@
 * [HelloWorld MVC](https://github.com/ImperaEtConquer/prj_JT_task1)
 * [JavaGame MVC](https://github.com/ImperaEtConquer/prj_JT_task2)
 * [PhoneBook MVC](https://github.com/ImperaEtConquer/prj_JT_task3)
+* [UniversityAdmission MVC](https://github.com/ImperaEtConquer/prj_JT_task4)
 ### Projects
 * [TaxiStation MVC](https://github.com/ImperaEtConquer/prj_JT_project1)
